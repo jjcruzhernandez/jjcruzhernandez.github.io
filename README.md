@@ -1,6 +1,7 @@
 # [Jennifer Cruz Hernandez]
 
-[Matrix-based representations](http://startbootstrap.com/template-overviews/modern-business/) is a multipurpose, full website template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template includes 17 unique HTML pages and a working PHP contact form.
+[Matrix-Based representations](https://bl.ocks.org/jjcruzhernandez/0bda55c76a0d5b3a4920f5ddf362a595) 
+[Forced-Directed representations](https://bl.ocks.org/jjcruzhernandez/a63583b967aef7a27d8eca7dcd0c77af) 
 
 ## Preview
 
