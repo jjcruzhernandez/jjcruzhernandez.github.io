@@ -3,6 +3,13 @@
 [Matrix-Based representations](https://bl.ocks.org/jjcruzhernandez/0bda55c76a0d5b3a4920f5ddf362a595) 
 [Forced-Directed representations](https://bl.ocks.org/jjcruzhernandez/a63583b967aef7a27d8eca7dcd0c77af) 
 
+[BarChart using D3](https://bl.ocks.org/jjcruzhernandez/d0b58f8b22e0681c383a1ac75a340c32)
+[LineChart using D3](https://bl.ocks.org/jjcruzhernandez/f60ce2131d6c5db3808ffcbb698f8f14)
+[ScatterPlot (bivariate) using D3](https://bl.ocks.org/jjcruzhernandez/703306ddaa883396a99801661a7e99b0)
+[ScatterPlot (trivariate) using D3](https://bl.ocks.org/jjcruzhernandez/05d3118e46f2047bc3d0e44b9eabfb3e)
+[TrellisPlot using D3](https://bl.ocks.org/jjcruzhernandez/22ee026f44fda8a4589a05d7881b2aaf)
+[ScatterPlot Matrix using D3](https://bl.ocks.org/jjcruzhernandez/b6359489d2d4fd016c89c01c98a9e775) *open in another tab
+
 ## Preview
 
 [![Modern Business Preview](https://startbootstrap.com/assets/img/templates/modern-business.jpg)](https://blackrockdigital.github.io/startbootstrap-modern-business/)
